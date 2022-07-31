@@ -1,8 +1,8 @@
 # Main Objective
 
-Reconfigure a website using semantic HTML and follow accessibility guidelines.
+This was a homework assignment for my web development class. I was required to reconfigure a website using semantic HTML and follow accessibility guidelines.
 
-## Project Goals:
+## Homework Goals:
 
 Replace non-specific and non-descriptive HTML tags with semantic markup. 
 Ensure and repair connection functionality. 

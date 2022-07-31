@@ -15,5 +15,5 @@ Combine CSS selectors and property values.
 Add comments to HTML and CSS for clarity. 
 Added browser instructions for device-specific viewing adjustments.
 
-##Demo
+## Demo
 https://sarahvaci.github.io/HW-1A/
